@@ -60,3 +60,5 @@ This dashboard demonstrates how data visualization tools can transform raw sport
 
 
 # Dasboard Image :
+<img width="1633" height="879" alt="Screenshot 2026-03-16 232032" src="https://github.com/user-attachments/assets/32150cb2-b6d8-45dd-beb8-2a0f2c13ca24" />
+
