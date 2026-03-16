@@ -57,3 +57,6 @@ Boundary statistics highlight aggressive batting trends in the tournament.
  # Conclusion
 
 This dashboard demonstrates how data visualization tools can transform raw sports data into meaningful insights, helping users better understand match strategies, team performance, and player achievements in the IPL.
+
+
+# Dasboard Image :
